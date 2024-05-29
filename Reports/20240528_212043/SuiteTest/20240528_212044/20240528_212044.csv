@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SuiteTest,Chrome 125.0.0.0,,,28-05-2024 21:20:45,28-05-2024 21:21:18,33.272s,PASSED
+,,,,,,,
+Test Cases/test,Chrome 125.0.0.0,,,28-05-2024 21:20:45,28-05-2024 21:21:18,33.209s,PASSED
+"openBrowser(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 125.0.0.0,,,28-05-2024 21:20:45,28-05-2024 21:21:18,32.584s,PASSED
+takeFullPageScreenshot(),Chrome 125.0.0.0,,,28-05-2024 21:21:18,28-05-2024 21:21:18,0.442s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,28-05-2024 21:21:18,28-05-2024 21:21:18,0.100s,PASSED

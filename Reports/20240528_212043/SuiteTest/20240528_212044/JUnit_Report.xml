@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SuiteTest" time="33.272" tests="1" failures="0" errors="0">
+   <testsuite name="SuiteTest" tests="1" failures="0" errors="0" time="33.272" skipped="0" timestamp="28-05-2024T21:20:45" hostname="richard - localhost" id="Test Suites/SuiteTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/richard/Katalon-BDD/Reports/20240528_212043/SuiteTest/20240528_212044"/>
+         <property name="logFiles" value="/Users/richard/Katalon-BDD/Reports/20240528_212043/SuiteTest/20240528_212044/execution0.log"/>
+         <property name="attachments" value="/Users/richard/Katalon-BDD/Reports/20240528_212043/SuiteTest/20240528_212044/1716945678405.png"/>
+         <property name="hostName" value="richard - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="943a40b20631d82026abdf5bce5b0288"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/test" time="33.209" classname="Test Cases/test" status="PASSED">
+         <system-out><![CDATA[28-05-2024T21:20:45 - [TEST_CASE][PASSED] - Test Cases/test: Test Cases/test
+
+28-05-2024T21:20:45 - [TEST_STEP][PASSED] - openBrowser("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"): Browser is opened with url: 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'
+
+28-05-2024T21:20:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-05-2024T21:20:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-05-2024T21:21:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'
+
+28-05-2024T21:21:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+28-05-2024T21:21:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+28-05-2024T21:21:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|/Users/richard/Katalon-BDD/Reports/20240528_212043/SuiteTest/20240528_212044/1716945678405.png]]
+
+28-05-2024T21:21:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-05-2024T21:21:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[28-05-2024T21:20:45 - [TEST_SUITE][PASSED] - SuiteTest: Test Cases/test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
