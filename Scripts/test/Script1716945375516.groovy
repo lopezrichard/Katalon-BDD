@@ -16,4 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+WebUI.openBrowser("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
+WebUI.takeFullPageScreenshot()
+WebUI.closeBrowser()
